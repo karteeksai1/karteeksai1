@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi, I’m Karteek 👋
 
-<!--
-**karteeksai1/karteeksai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science undergraduate  
+💻 Interested in Data Structures, Backend, and Problem Solving  
+🚀 Actively building projects and improving consistency on GitHub
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- Languages: Python, JavaScript, C++,Postgres
+- Core CS: DSA, DBMS, OS, OOPS
+- Tools: Git, GitHub, VS Code,Docker
+
+---
+
+### 📊 GitHub Activity
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=karteeksai1&theme=github-compact)
+
+---
+
+### 📈 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=karteeksai1&show_icons=true&theme=default)
+
+---
+
+### 📫 Connect
+- GitHub: https://github.com/karteeksai1
+- Leetcode:https://leetcode.com/u/karteek45/
+
