@@ -1,7 +1,7 @@
 ## Hi, I’m Karteek 👋
 
-🎓 Computer Science and Data Science undergraduate
-🤖 I am an AI Backend Engineer
+🎓 Computer Science and Data Science undergraduate<br>
+🤖 I am an AI Backend Engineer<br>
 💻 Interested in Data Structures, Backend, and Problem Solving
 
 ---
