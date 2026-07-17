@@ -8,7 +8,7 @@
 <br>
 🎓 Final-year Computer Science & Data Science undergrad
 
-![Profile Views](https://profile-counter.glitch.me/karteeksai1/count.svg)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=karteeksai1.karteeksai1&left_color=555555&right_color=0A66C2)
 
 ---
 
