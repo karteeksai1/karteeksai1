@@ -8,7 +8,7 @@
 <br>
 🎓 Final-year Computer Science & Data Science undergrad
 
-![Profile Views](https://komarev.com/ghvc/?username=karteeksai1&color=0A66C2&style=flat-square&label=PROFILE+VIEWS&base=500&v=1)
+![Profile Views](https://profile-counter.glitch.me/karteeksai1/count.svg)
 
 ---
 
