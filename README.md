@@ -8,7 +8,7 @@
 <br>
 🎓 Final-year Computer Science & Data Science undergrad
 
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=karteeksai1.karteeksai1&left_color=2D033B&right_color=FFB703&left_text=Profile%20Views)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=username.visitor-badge&left_text=visitors&left_color=%2300a3d7&right_color=%23e32400&logo=github&height=21)
 ---
 
 ### 🔧 Tech Stack
