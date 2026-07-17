@@ -7,8 +7,7 @@
 🚀 Shipping full-stack AI products end-to-end: FastAPI/Express backends, React/Next.js frontends, production deployment
 <br>
 🎓 Final-year Computer Science & Data Science undergrad
-
-![Profile Views](https://visitcount.itsvg.in/api?id=karteeksai1&label=Profile+Views&color=12&icon=5&pretty=true)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=karteeksai1.karteeksai1&left_color=121212&right_color=00FFCC&left_text=Profile%20Views)
 ---
 
 ### 🔧 Tech Stack
