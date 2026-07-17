@@ -8,7 +8,7 @@
 <br>
 🎓 Final-year Computer Science & Data Science undergrad
 
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkarteeksai1&count_bg=%230A66C2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=PROFILE+VIEWS&edge_flat=true" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghvc/?username=karteeksai1&color=0A66C2&style=flat-square&label=PROFILE+VIEWS&base=500&v=1)
 
 ---
 
