@@ -1,8 +1,11 @@
-## Hi, I’m Karteek 👋
+### Hi, I'm Karteek 👋
 
-🎓 Computer Science and Data Science undergraduate<br>
-🤖 I am an AI Backend Engineer<br>
-💻 Interested in Data Structures, Backend, and Problem Solving
+🤖 AI Engineer building multi-agent systems and RAG pipelines
+🧠 Designing agentic architectures with LangGraph — supervisor/agent orchestration, hybrid retrieval, parallel dispatch
+🚀 Shipping full-stack AI products end-to-end: FastAPI/Express backends, React/Next.js frontends, production deployment
+🎓 Final-year Computer Science & Data Science undergrad
+
+<img src="https://komarev.com/ghvc/?username=karteeksai1&color=0A66C2&style=flat-square&label=PROFILE+VIEWS&base=500" alt="Profile Views" />
 
 ---
 
