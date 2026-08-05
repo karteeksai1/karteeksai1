@@ -39,15 +39,8 @@
 
 ---
 
-### 📊 GitHub Activity
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=karteeksai1&theme=github-compact)
-
----
 - Leetcode: https://leetcode.com/u/karteek45/
 ---
 
 ### 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karteek-sai-ch-b84469280/)
-
-### 📫 Contact Me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karteek0011@gmail.com)
