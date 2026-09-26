@@ -38,3 +38,14 @@
 ![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langgraph&logoColor=white)
 
 ---
+---
+
+### 🚀 Projects Highlights
+
+- **[CodeReviewAI](https://github.com/karteeksai1/CodeReviewAI)** – Multi-agent AI code review platform built with LangGraph, FastAPI, and RAG. Automatically analyzes GitHub Pull Requests through specialized security, performance, and style agents and delivers grounded review findings.
+
+- **[HireGraph](https://github.com/karteeksai1/HireGraph)** – Agentic AI technical interviewer built with LangGraph, FastAPI, and the PERN stack. Uses dynamic agent routing, RAG-based evaluation, and adaptive interview workflows to conduct and assess technical interviews.
+
+- **[LegalAid](https://github.com/karteeksai1/LegalAid)** – Multi-agent AI legal contract review system that stress-tests agreements, detects hidden risks, and produces grounded plain-English audits using document retrieval and agentic analysis.
+
+---
