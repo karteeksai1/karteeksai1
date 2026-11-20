@@ -1,7 +1,7 @@
+![Karteek AI Engineer](./banner.gif)
 
 <div align="center">
 
-![Animated Pixel Art Banner](./assets/karteek-pixel-banner.gif)
 
 # Hi, I'm Karteek 👋
 
