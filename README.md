@@ -1,6 +1,6 @@
-![Karteek AI Engineer](./banner.gif)
-
 <div align="center">
+  <img src="./banner.png" width="100%" alt="AI Engineer Banner"/>
+</div>
 
 
 # Hi, I'm Karteek 👋
